@@ -1,0 +1,12 @@
+body {
+	font-family: Lato, 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img {
+	max-width: 800px;
+}
